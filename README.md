@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Taranvir Kaur</h1>
-<h3 align="center">I'm a software developer with 3 years of experience in the tech industry. Recently, I took my skills to the next level by completing a post-graduation in DevOps for Cloud Computing. Currently, I'm on the lookout for exciting job opportunities in my field to apply my expertise and grow further.</h3>
+<h3 align="center">From Software Development to DevOps | Transforming Tech with Sales Expertise</h3>
 <img align="right" alt="coding" width="250" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562.gif">
 <h3 align="left">💬 Let’s Talk Tech: </h3> taranvirkaursaini@gmail.com
 <h3 align="left">
